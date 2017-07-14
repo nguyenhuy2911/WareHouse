@@ -1,0 +1,6 @@
+
+*.dll
+*.pdb
+AppConfig/AppConfig/obj/Debug/AppConfig.csproj.FileListAbsolute.txt
+*.cache
+AppConfig/AppConfig/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs

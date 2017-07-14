@@ -1,0 +1,25 @@
+﻿@{
+    Layout = null;
+}
+
+
+<!-- Overlay For Sidebars -->
+<div class="overlay"></div>
+<!-- #END# Overlay For Sidebars -->
+
+<!-- Top Bar -->
+@Html.Partial("~/Views/Shared/_Topbar.cshtml")
+<!-- #Top Bar -->
+<section>
+    <!-- Left Sidebar -->
+    @Html.Partial("~/Views/Shared/_Leftsidebar.cshtml")
+    <!-- #END# Left Sidebar -->
+    <!-- Right Sidebar -->
+    @Html.Partial("~/Views/Shared/_Rightsidebar.cshtml")
+    <!-- #END# Right Sidebar -->
+</section>
+<section class="content">
+    <router-outlet></router-outlet>
+</section>
+
+
