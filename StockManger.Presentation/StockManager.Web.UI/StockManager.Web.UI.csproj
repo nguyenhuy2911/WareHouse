@@ -702,11 +702,11 @@
       <Project>{9910d0b4-b273-455d-9e77-7b1496553a37}</Project>
       <Name>Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\StockManager.Business\StockManager.Business\StockManager.Service.csproj">
+    <ProjectReference Include="..\..\StockManager.Business\StockManager.Service.csproj">
       <Project>{2e190a9a-48b3-4e59-8d58-b9e7e19b5a3a}</Project>
       <Name>StockManager.Service</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\StockManager.Entity\StockManage.Entity\StockManager.Entity.csproj">
+    <ProjectReference Include="..\..\StockManager.Entity\StockManager.Entity.csproj">
       <Project>{3b6e80e2-c6d2-49a5-9962-d6f02aed37b9}</Project>
       <Name>StockManager.Entity</Name>
     </ProjectReference>

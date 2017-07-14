@@ -84,11 +84,11 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\StockManager.Business\StockManager.Business\StockManager.Service.csproj">
+    <ProjectReference Include="..\..\StockManager.Business\StockManager.Service.csproj">
       <Project>{2e190a9a-48b3-4e59-8d58-b9e7e19b5a3a}</Project>
       <Name>StockManager.Service</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\StockManager.Data\StockManager.Data\StockManager.Data.csproj">
+    <ProjectReference Include="..\..\StockManager.Data\StockManager.Data.csproj">
       <Project>{16fc167c-1066-4708-a868-2f451adda52a}</Project>
       <Name>StockManager.Data</Name>
     </ProjectReference>
